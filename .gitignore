@@ -1,3 +1,8 @@
 .build/
 *~
 *.old
+config.gen
+build.log
+.config
+.config.*
+config

@@ -1,6 +1,6 @@
-[submodule "toolchains/arm-rpi-linux-gnueabi-host64"]
-	path = toolchains/arm-rpi-linux-gnueabi-host64
-	url = https://github.com/Toutjuste/arm-rpi-linux-gnueabi-host64.git
 [submodule "toolchains/arm-rpi-linux-gnueabi-host32"]
 	path = toolchains/arm-rpi-linux-gnueabi-host32
 	url = https://github.com/Toutjuste/arm-rpi-linux-gnueabi-host32.git
+[submodule "toolchains/arm-rpi-linux-gnueabihf-host64"]
+	path = toolchains/arm-rpi-linux-gnueabihf-host64
+	url = https://github.com/Toutjuste/arm-rpi-linux-gnueabihf-host64.git
